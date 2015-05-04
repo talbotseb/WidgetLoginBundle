@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
     "name": "friendsofvictoire/login-widget",
-=======
-    "name": "friendsofvictoire/image-widget",
->>>>>>> 09953c144206f753e74e01683cbdbc1edcaa4ecb
     "type": "symfony-bundle",
     "description": "Victoire Login widget",
     "keywords": ["victoire", "Login", "widget"],
