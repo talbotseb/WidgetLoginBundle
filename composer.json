@@ -1,5 +1,5 @@
 {
-    "name": "/login-widget",
+    "name": "friendsofvictoire/login-widget",
     "type": "symfony-bundle",
     "description": "Victoire Login widget",
     "keywords": ["victoire", "Login", "widget"],
