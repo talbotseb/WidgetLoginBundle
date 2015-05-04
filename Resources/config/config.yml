@@ -1,0 +1,11 @@
+victoire_core:
+    widgets:
+        Login:
+            class: "Victoire\\Widget\\LoginBundle\\Entity\\WidgetLogin"
+            name: Login
+            
+jms_translation:
+    configs:
+        victoire_login_bundle:
+            dirs: ["@VictoireLoginBundle"]
+            output_dir: "@VictoireLoginBundle/Resources/translations"
