@@ -1,12 +1,19 @@
-Victoire CMS Login Bundle
+Victoire DCMS Login Bundle
 ============
 
-Need to add a login in a victoire cms website ?
+##What is the purpose of this bundle
 
-First you need to have a valid Symfony2 Victoire edition.
-Then you just have to run the following composer command :
+This bundles gives you access to the *Login Widget*.
 
-    php composer.phar require victoire/login-widget
+##Set Up Victoire
+
+If you haven't already, you can follow the steps to set up Victoire *[here](https://github.com/Victoire/victoire/blob/master/setup.md)*
+
+##Install the bundle
+
+    php composer.phar require friendsofvictoire/login-widget
+
+###Reminder
 
 Do not forget to add the bundle in your AppKernel !
 

@@ -1,13 +1,13 @@
 {
     "name": "friendsofvictoire/login-widget",
     "type": "symfony-bundle",
-    "description": "Victoire Login widget",
-    "keywords": ["victoire", "Login", "widget"],
+    "description": "Victoire DCMS Login widget",
+    "keywords": ["DCMS", "Victoire", "widget", "FriendsofVictoire", "Dynamic", "CMS", "Login"],
     "homepage": "http://victoire.io",
     "license": "MIT",
     "author": {
         "name": "Charlie LUCAS",
-        "email": "charlie@appventus.com"
+        "email": "charlie@victoire.io"
     },
     "require": {
         "php"                      : ">=5.3.3",
