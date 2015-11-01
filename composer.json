@@ -2,7 +2,7 @@
     "name": "friendsofvictoire/login-widget",
     "type": "symfony-bundle",
     "description": "Victoire DCMS Login widget",
-    "keywords": ["DCMS", "Victoire", "widget", "FriendsofVictoire", "Dynamic", "CMS", "Login"],
+    "keywords": ["DCMS", "Victoire", "widget", "FriendsofVictoire", "FoV", "Dynamic", "CMS", "Login"],
     "homepage": "http://victoire.io",
     "license": "MIT",
     "author": {
@@ -12,7 +12,8 @@
     "require": {
         "php"                      : ">=5.3.3",
         "symfony/framework-bundle" : "~2.3",
-        "victoire/victoire"        : "dev-master"    },
+        "victoire/victoire"        : "~1.3.0"
+    },
     "autoload": {
         "psr-0": { "Victoire\\Widget\\LoginBundle": "" }
     },
